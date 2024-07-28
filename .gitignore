@@ -8,6 +8,8 @@ default-*.json
 gen/
 node_modules/
 target/
+.cdsrc.json
+eslint.config.js
 
 # Web IDE, App Studio
 .che/
@@ -27,7 +29,7 @@ mta_archives/
 *.flattened-pom.xml
 
 # IDEs
-# .vscode
+ .vscode
 # .idea
 
 # @cap-js/cds-typer
