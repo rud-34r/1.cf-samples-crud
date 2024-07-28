@@ -1,5 +1,5 @@
 # Getting Started
-This is a simple capm application with CRUD opetaions for deployment into CF.
+This is a simple capm application with CRUD opetaions for deployment into CF.<br />
 It has fiori based UI and utilises Managed application router <br />
 
 
